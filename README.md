@@ -1,0 +1,1 @@
+# AAnnex-D--Approach-adopted-for-defining-the-BPMN4SBP-meta-model-based-on-CDME-Stroppi-et-al.-2011-
